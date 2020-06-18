@@ -1,6 +1,5 @@
 import React from 'react';
-//hello everyone
-//I currently updated.
+//hello man what you doing
 function App() {
   return (
     <div className="App">
