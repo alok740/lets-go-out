@@ -13,14 +13,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-.route-container
-{
-  margin-top:10%;
-}
+
+
 .route-container .nav a
 {
   text-decoration: none;
   color: antiquewhite;
-  margin:10px;
+
+
+}
+.route-container .nav{
+  width: 100%;
+}
+.route-container .nav a svg{
+  height: 50px;
+  width:50px;
+  margin-left: 20%;
+
+}
+
+.route-container .nav a:hover{
+  color:blueviolet;  
 
 }
